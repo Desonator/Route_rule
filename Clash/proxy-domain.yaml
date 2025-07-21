@@ -1,4 +1,3 @@
-payload:
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.ws
@@ -19,8 +18,11 @@ payload:
   - DOMAIN-SUFFIX,satu.kz
   - DOMAIN-SUFFIX,shikimori.me
   - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-SUFFIX,xnxx-ru.com
   - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,xvideos-cdn.com
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
+payload:
