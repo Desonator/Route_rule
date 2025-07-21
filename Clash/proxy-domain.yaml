@@ -1,3 +1,4 @@
+payload:
   - DOMAIN-SUFFIX,4pda.ru
   - DOMAIN-SUFFIX,4pda.to
   - DOMAIN-SUFFIX,4pda.ws
@@ -25,4 +26,3 @@
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
-payload:
