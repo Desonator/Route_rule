@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cscot.pages.dev
   - DOMAIN-SUFFIX,elitedevelopment.com.pk
   - DOMAIN-SUFFIX,fitgirl-repacks.site
