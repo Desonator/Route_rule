@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,4pda.ws
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,baza-knig.ru
   - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
@@ -19,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,satu.kz
   - DOMAIN-SUFFIX,shikimori.me
+  - DOMAIN-SUFFIX,slashlib.me
   - DOMAIN-SUFFIX,temu.com
   - DOMAIN-SUFFIX,xnxx-ru.com
   - DOMAIN-SUFFIX,xnxx.com
@@ -27,5 +29,3 @@ payload:
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
-  - DOMAIN-SUFFIX,slashlib.me
-  - DOMAIN-SUFFIX,baza-knig.ru
