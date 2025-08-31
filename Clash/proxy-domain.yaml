@@ -72,3 +72,6 @@ payload:
   - DOMAIN-SUFFIX,wow.nosdn.127.net
   - DOMAIN-SUFFIX,wowchina.com
   - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,game.betty.blizzard.com
+  - DOMAIN-SUFFIX,prod.d4.blizzard.com
+  - DOMAIN-SUFFIX,actual.battle.net
