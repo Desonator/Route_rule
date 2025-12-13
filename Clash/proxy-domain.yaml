@@ -5,12 +5,14 @@ payload:
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,baza-knig.ru
+  - DOMAIN-SUFFIX,byrutgame.org
   - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cscot.pages.dev
   - DOMAIN-SUFFIX,elitedevelopment.com.pk
+  - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,huananzhi.com
@@ -19,18 +21,7 @@ payload:
   - DOMAIN-SUFFIX,ksunext.org
   - DOMAIN-SUFFIX,ksunext.org
   - DOMAIN-SUFFIX,notion.site
-  - DOMAIN-SUFFIX,satu.kz
-  - DOMAIN-SUFFIX,shikimori.me
-  - DOMAIN-SUFFIX,slashlib.me
-  - DOMAIN-SUFFIX,sourceforge.net
-  - DOMAIN-SUFFIX,temu.com
-  - DOMAIN-SUFFIX,xnxx-ru.com
-  - DOMAIN-SUFFIX,xnxx.com
-  - DOMAIN-SUFFIX,xv-ru.com
-  - DOMAIN-SUFFIX,xvideos-cdn.com
-  - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-SUFFIX,yandexwebcache.org
-  - DOMAIN-SUFFIX,zerolab.net
+  - DOMAIN-SUFFIX,osboxes.org
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.at
   - DOMAIN-SUFFIX,pinterest.ca
@@ -54,5 +45,15 @@ payload:
   - DOMAIN-SUFFIX,pinterest.pt
   - DOMAIN-SUFFIX,pinterest.ru
   - DOMAIN-SUFFIX,pinterest.se
-  - DOMAIN-SUFFIX,osboxes.org
-  - DOMAIN-SUFFIX,fitgirl-repacks.site
+  - DOMAIN-SUFFIX,satu.kz
+  - DOMAIN-SUFFIX,shikimori.me
+  - DOMAIN-SUFFIX,slashlib.me
+  - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-SUFFIX,xnxx-ru.com
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xv-ru.com
+  - DOMAIN-SUFFIX,xvideos-cdn.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,yandexwebcache.org
+  - DOMAIN-SUFFIX,zerolab.net
