@@ -2,4 +2,4 @@ payload:
   - DOMAIN-SUFFIX,+.3gppnetwork.org
   - DOMAIN-SUFFIX,+.mts.ru
   - DOMAIN-SUFFIX,+.megafon.ru
-  - GEOIP,RU
+  - DOMAIN-KEYWORD,nalog
