@@ -57,5 +57,17 @@ payload:
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
-  - DOMAIN-SUFFIX,down.anticheatexpert.com
+  - DOMAIN-SUFFIX,as.gryphline.com
+  - DOMAIN-SUFFIX,ef-webview.gryphline.com
+  - DOMAIN-SUFFIX,game-config.gryphline.com
+  - DOMAIN-SUFFIX,game-hub.gryphline.com
+  - DOMAIN-SUFFIX,launcher.gryphline.com
+  - DOMAIN-SUFFIX,u8.gryphline.com
+  - DOMAIN-SUFFIX,beyond.hg-cdn.com
+  - DOMAIN-SUFFIX,gl-utils-public.hg-cdn.com
   - DOMAIN-SUFFIX,pc.crashsight.wetest.net
+  - DOMAIN-SUFFIX,down.anticheatexpert.com
+  - DOMAIN-SUFFIX,ngx.download.nvidia.com
+  - DOMAIN-SUFFIX,web-static.hg-cdn.com
+  - DOMAIN-SUFFIX,beyond-euandus.gryphline.com
+  - DOMAIN-SUFFIX,beyond-asiapacific.gryphline.com
