@@ -4,24 +4,36 @@ payload:
   - DOMAIN-SUFFIX,4pda.ws
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,as.gryphline.com
   - DOMAIN-SUFFIX,baza-knig.ru
+  - DOMAIN-SUFFIX,beyond-asiapacific.gryphline.com
+  - DOMAIN-SUFFIX,beyond-euandus.gryphline.com
+  - DOMAIN-SUFFIX,beyond.hg-cdn.com
   - DOMAIN-SUFFIX,byrutgame.org
   - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cscot.pages.dev
+  - DOMAIN-SUFFIX,down.anticheatexpert.com
+  - DOMAIN-SUFFIX,ef-webview.gryphline.com
   - DOMAIN-SUFFIX,elitedevelopment.com.pk
   - DOMAIN-SUFFIX,fitgirl-repacks.site
   - DOMAIN-SUFFIX,fitgirl-repacks.site
+  - DOMAIN-SUFFIX,game-config.gryphline.com
+  - DOMAIN-SUFFIX,game-hub.gryphline.com
+  - DOMAIN-SUFFIX,gl-utils-public.hg-cdn.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,huananzhi.com
   - DOMAIN-SUFFIX,island-of-pleasure.site
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,ksunext.org
   - DOMAIN-SUFFIX,ksunext.org
+  - DOMAIN-SUFFIX,launcher.gryphline.com
+  - DOMAIN-SUFFIX,ngx.download.nvidia.com
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,osboxes.org
+  - DOMAIN-SUFFIX,pc.crashsight.wetest.net
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.at
   - DOMAIN-SUFFIX,pinterest.ca
@@ -50,6 +62,8 @@ payload:
   - DOMAIN-SUFFIX,slashlib.me
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,temu.com
+  - DOMAIN-SUFFIX,u8.gryphline.com
+  - DOMAIN-SUFFIX,web-static.hg-cdn.com
   - DOMAIN-SUFFIX,xnxx-ru.com
   - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xv-ru.com
@@ -57,17 +71,3 @@ payload:
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
-  - DOMAIN-SUFFIX,as.gryphline.com
-  - DOMAIN-SUFFIX,ef-webview.gryphline.com
-  - DOMAIN-SUFFIX,game-config.gryphline.com
-  - DOMAIN-SUFFIX,game-hub.gryphline.com
-  - DOMAIN-SUFFIX,launcher.gryphline.com
-  - DOMAIN-SUFFIX,u8.gryphline.com
-  - DOMAIN-SUFFIX,beyond.hg-cdn.com
-  - DOMAIN-SUFFIX,gl-utils-public.hg-cdn.com
-  - DOMAIN-SUFFIX,pc.crashsight.wetest.net
-  - DOMAIN-SUFFIX,down.anticheatexpert.com
-  - DOMAIN-SUFFIX,ngx.download.nvidia.com
-  - DOMAIN-SUFFIX,web-static.hg-cdn.com
-  - DOMAIN-SUFFIX,beyond-euandus.gryphline.com
-  - DOMAIN-SUFFIX,beyond-asiapacific.gryphline.com
