@@ -1,33 +1,27 @@
 payload:
 #Telegramm
-  - DOMAIN,api.imem.app
-  - DOMAIN,api.swiftgram.app
-  - DOMAIN-SUFFIX,cdn-telegram.org
-  - DOMAIN-SUFFIX,comments.app
-  - DOMAIN-SUFFIX,contest.com
-  - DOMAIN-SUFFIX,graph.org
-  - DOMAIN-SUFFIX,legra.ph
-  - DOMAIN-SUFFIX,mbrx.app
-  - DOMAIN-SUFFIX,quiz.directory
-  - DOMAIN-SUFFIX,stel.com
-  - DOMAIN-SUFFIX,t.me
-  - DOMAIN-SUFFIX,tdesktop.com
-  - DOMAIN-SUFFIX,telega.one
-  - DOMAIN-SUFFIX,telegra.ph
-  - DOMAIN-SUFFIX,telegram-cdn.org
-  - DOMAIN-SUFFIX,telegram.dog
-  - DOMAIN-SUFFIX,telegram.me
-  - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-SUFFIX,telegram.space
-  - DOMAIN-SUFFIX,telegramdownload.com
-  - DOMAIN-SUFFIX,telesco.pe
-  - DOMAIN-SUFFIX,tg.dev
-  - DOMAIN-SUFFIX,tx.me
   - DOMAIN-SUFFIX,usercontent.dev
+  - DOMAIN-SUFFIX,tx.me
+  - DOMAIN-SUFFIX,tg.dev
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telega.one
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,stel.com
+  - DOMAIN-SUFFIX,quiz.directory
+  - DOMAIN-SUFFIX,mbrx.app
+  - DOMAIN-SUFFIX,legra.ph
+  - DOMAIN-SUFFIX,graph.org
+  - DOMAIN-SUFFIX,contest.com
+  - DOMAIN-SUFFIX,comments.app
+  - DOMAIN-KEYWORD,telegram
   - DOMAIN-KEYWORD,nicegram
+  - DOMAIN,api.swiftgram.app
+  - DOMAIN,api.imem.app
 #Whatsapp
-  - DOMAIN,graph.facebook.com
+  - DOMAIN-SUFFIX,whatsappbrand.com
+  - DOMAIN-SUFFIX,wa.me
   - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-KEYWORD,whatsapp
-  - DOMAIN-SUFFIX,wa.me
-  - DOMAIN-SUFFIX,whatsappbrand.com
+  - DOMAIN,graph.facebook.com
