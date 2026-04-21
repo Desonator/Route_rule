@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,4pda
+  - DOMAIN-KEYWORD,animemoon
+  - DOMAIN-KEYWORD,pinterest
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,byrutgame.org
@@ -14,9 +16,9 @@ payload:
   - DOMAIN-SUFFIX,huananzhi.com
   - DOMAIN-SUFFIX,island-of-pleasure.site
   - DOMAIN-SUFFIX,jut.su
+  - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,pinimg.com
-  - DOMAIN-KEYWORD,pinterest
   - DOMAIN-SUFFIX,satu.kz
   - DOMAIN-SUFFIX,shikimori.me
   - DOMAIN-SUFFIX,slashlib.me
@@ -29,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
-  - DOMAIN-SUFFIX,lastpass.com
 #Google-Play
   - DOMAIN-SUFFIX,play.google.com
   - DOMAIN-SUFFIX,gvt1.com
