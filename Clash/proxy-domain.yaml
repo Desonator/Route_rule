@@ -2,6 +2,8 @@ payload:
   - DOMAIN-KEYWORD,4pda
   - DOMAIN-KEYWORD,animemoon
   - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-KEYWORD,xnxx
+  - DOMAIN-KEYWORD,xvideos
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,byrutgame.org
@@ -24,11 +26,7 @@ payload:
   - DOMAIN-SUFFIX,slashlib.me
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,temu.com
-  - DOMAIN-SUFFIX,xnxx-ru.com
-  - DOMAIN-SUFFIX,xnxx.com
   - DOMAIN-SUFFIX,xv-ru.com
-  - DOMAIN-SUFFIX,xvideos-cdn.com
-  - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
 #Google-Play
