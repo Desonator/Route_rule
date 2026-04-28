@@ -25,7 +25,7 @@ payload:
   - DOMAIN-SUFFIX,shikimori.me
   - DOMAIN-SUFFIX,slashlib.me
   - DOMAIN-SUFFIX,sourceforge.net
-  - DOMAIN-SUFFIX,temu.com
+#  - DOMAIN-SUFFIX,temu.com
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
