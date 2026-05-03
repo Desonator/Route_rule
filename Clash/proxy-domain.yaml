@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,byrutgame.org
   - DOMAIN-SUFFIX,cdn.usefathom.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cscot.pages.dev
   - DOMAIN-SUFFIX,elitedevelopment.com.pk
@@ -19,13 +17,11 @@ payload:
   - DOMAIN-SUFFIX,island-of-pleasure.site
   - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,lastpass.com
-  - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,satu.kz
   - DOMAIN-SUFFIX,shikimori.me
   - DOMAIN-SUFFIX,slashlib.me
   - DOMAIN-SUFFIX,sourceforge.net
-#  - DOMAIN-SUFFIX,temu.com
   - DOMAIN-SUFFIX,xv-ru.com
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
@@ -39,3 +35,47 @@ payload:
   - DOMAIN-SUFFIX,dl-ssl.google.com
   - DOMAIN-SUFFIX,android.apis.google.com
   - DOMAIN-SUFFIX,android.clients.google.com
+#Discord-add
+  - DOMAIN-SUFFIX,dis.gd
+  - DOMAIN-SUFFIX,disboard.org
+  - DOMAIN-SUFFIX,discord-activities.com
+  - DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com
+  - DOMAIN-SUFFIX,discord.center
+  - DOMAIN-SUFFIX,discord.co
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.design
+  - DOMAIN-SUFFIX,discord.dev
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.gift
+  - DOMAIN-SUFFIX,discord.gifts
+  - DOMAIN-SUFFIX,discord.me
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discord.new
+  - DOMAIN-SUFFIX,discord.st
+  - DOMAIN-SUFFIX,discord.store
+  - DOMAIN-SUFFIX,discord.tools
+  - DOMAIN-SUFFIX,discordInvites.net
+  - DOMAIN-SUFFIX,discordactivities.com
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.io
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordbee.com
+  - DOMAIN-SUFFIX,discordbotlist.com
+  - DOMAIN-SUFFIX,discordcdn.com
+  - DOMAIN-SUFFIX,discordexpert.com
+  - DOMAIN-SUFFIX,discordhome.com
+  - DOMAIN-SUFFIX,discordhub.com
+  - DOMAIN-SUFFIX,discordlist.me
+  - DOMAIN-SUFFIX,discordlist.space
+  - DOMAIN-SUFFIX,discordmerch.com
+  - DOMAIN-SUFFIX,discordpartygames.com
+  - DOMAIN-SUFFIX,discords.com
+  - DOMAIN-SUFFIX,discordsays.com
+  - DOMAIN-SUFFIX,discordservers.com
+  - DOMAIN-SUFFIX,discordstatus.com
+  - DOMAIN-SUFFIX,discordtop.com
+  - DOMAIN-SUFFIX,disforge.com
+  - DOMAIN-SUFFIX,dyno.gg
+  - DOMAIN-SUFFIX,findAdiscord.com
+  - DOMAIN-SUFFIX,mee6.xyz
+  - DOMAIN-SUFFIX,top.gg
