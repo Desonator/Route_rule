@@ -1,3 +1,0 @@
-payload:
-  - IP-CIDR,0.0.0.0/8
-  - IP-CIDR,127.0.0.0/8
