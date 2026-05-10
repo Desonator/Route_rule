@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,4pda
   - DOMAIN-KEYWORD,animemoon
+  - DOMAIN-KEYWORD,jut
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-KEYWORD,xnxx
   - DOMAIN-KEYWORD,xvideos
@@ -15,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,huananzhi.com
   - DOMAIN-SUFFIX,island-of-pleasure.site
-  - DOMAIN-SUFFIX,jut.su
   - DOMAIN-SUFFIX,lastpass.com
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,satu.kz
