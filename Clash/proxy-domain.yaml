@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,zerolab.net
   - DOMAIN-SUFFIX,notepad-plus-plus.org
+  - DOMAIN-SUFFIX,docs.rw
 #Google-Play
   - DOMAIN-SUFFIX,play.google.com
   - DOMAIN-SUFFIX,gvt1.com
