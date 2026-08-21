@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,ai.google.dev
+  - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
   - DOMAIN,browser-intake-datadoghq.com
@@ -41,9 +42,9 @@ payload:
   - DOMAIN-SUFFIX,algolia.net
   - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,android.chat.openai.com
+  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,antigravity-unleash.goog
   - DOMAIN-SUFFIX,antigravity.google
-  - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,api-docs.deepseek.com
   - DOMAIN-SUFFIX,api-iam.intercom.io
   - DOMAIN-SUFFIX,api-mobile.pollo.ai
@@ -67,8 +68,8 @@ payload:
   - DOMAIN-SUFFIX,app.adjust.com
   - DOMAIN-SUFFIX,app.grammarly.com
   - DOMAIN-SUFFIX,app.kilo.ai
-  - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,apps.canva-apps.com
+  - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,arc-test.i.perplexity.ai
   - DOMAIN-SUFFIX,arena.openai.com
   - DOMAIN-SUFFIX,argocd-test.i.perplexity.ai
@@ -249,6 +250,7 @@ payload:
   - DOMAIN-SUFFIX,fellowship.perplexity.ai
   - DOMAIN-SUFFIX,files.anthropic.com
   - DOMAIN-SUFFIX,files.oaiusercontent.com
+  - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,font-public.canva.com
   - DOMAIN-SUFFIX,fpt2.microsoft.com
   - DOMAIN-SUFFIX,gateway.bingviz.microsoftapp.net
@@ -256,6 +258,7 @@ payload:
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,gemini.gstatic.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
@@ -337,6 +340,7 @@ payload:
   - DOMAIN-SUFFIX,models.anthropic.com
   - DOMAIN-SUFFIX,network-visual-dev.i.perplexity.ai
   - DOMAIN-SUFFIX,nexus-websocket-a.intercom.io
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
