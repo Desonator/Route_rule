@@ -73,6 +73,12 @@ payload:
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN-SUFFIX,antigravity-pa.googleapis.com
+  - DOMAIN-SUFFIX,antigravity.googleapis.com
+  - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
+  - DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
 #Chat-GPT
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,algolia.net
