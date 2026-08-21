@@ -36,52 +36,18 @@ payload:
   - DOMAIN-SUFFIX,modelcontextprotocol.org
 #Gemini
   - DOMAIN,ai.google.dev
-  - DOMAIN,alkalicore-pa.clients6.google.com
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN,antigravity-pa.googleapis.com
-  - DOMAIN,antigravity.googleapis.com
-  - DOMAIN,cloudaicompanion.googleapis.com
-  - DOMAIN,cloudcode-pa.googleapis.com
-  - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,makersuite.google.com
-  - DOMAIN,notebooklm-pa.googleapis.com
-  - DOMAIN,notebooklm.googleapis.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
-  - DOMAIN-SUFFIX,ai.google.dev
-  - DOMAIN-SUFFIX,ai.studio
-  - DOMAIN-SUFFIX,aicode.googleapis.com
-  - DOMAIN-SUFFIX,aida.googleapis.com
-  - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-  - DOMAIN-SUFFIX,aistudio.google.com
-  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN-SUFFIX,antigravity-pa.googleapis.com
-  - DOMAIN-SUFFIX,antigravity-unleash.google
-  - DOMAIN-SUFFIX,antigravity.google
-  - DOMAIN-SUFFIX,antigravity.googleapis.com
-  - DOMAIN-SUFFIX,apis.google.com
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,clients6.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,firebaseinstallations.googleapis.com
-  - DOMAIN-SUFFIX,geller-pa.googleapis.com
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-SUFFIX,jules.google.com
-  - DOMAIN-SUFFIX,labs.google.com
-  - DOMAIN-SUFFIX,lookerstudio.google.com
-  - DOMAIN-SUFFIX,makersuite.google.com
-  - DOMAIN-SUFFIX,news.google.com
-  - DOMAIN-SUFFIX,notebooklm.google.com
-  - DOMAIN-SUFFIX,opal.google.com
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-  - DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
-  - DOMAIN-SUFFIX,speechs3proto2-pa.googleapis.com
-  - DOMAIN-SUFFIX,stitch.withgoogle.com
-  - DOMAIN-SUFFIX,suggestqueries.google.com
-  - DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com
 #Chat-GPT
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
