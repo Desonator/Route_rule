@@ -1,22 +1,15 @@
 payload:
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
-  - DOMAIN,browser-intake-datadoghq.com
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
-  - DOMAIN,openai-api.arkoselabs.com
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,production-openaicom-storage.azureedge.net
-  - DOMAIN,servd-anthropic-website.b-cdn.net
-  - DOMAIN,static.cloudflareinsights.com
-  - DOMAIN-KEYWORD,openai
+  - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,2024recap-framer-prod.perplexity.ai
   - DOMAIN-SUFFIX,a-api.anthropic.com
   - DOMAIN-SUFFIX,a-cdn.anthropic.com
@@ -27,20 +20,16 @@ payload:
   - DOMAIN-SUFFIX,accounts.anthropic.com
   - DOMAIN-SUFFIX,acctcdnmsftuswe2.azureedge.net
   - DOMAIN-SUFFIX,acctcdnvzeuno.azureedge.net
-  - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,admin.i.perplexity.ai
   - DOMAIN-SUFFIX,admin.perplexity.ai
   - DOMAIN-SUFFIX,agents.i.perplexity.ai
   - DOMAIN-SUFFIX,agi-v2.perplexity.ai
-  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,ai.i.perplexity.ai
   - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
-  - DOMAIN-SUFFIX,algolia.net
-  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,android.chat.openai.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,antigravity-unleash.goog
@@ -60,16 +49,13 @@ payload:
   - DOMAIN-SUFFIX,api.kilo.ai
   - DOMAIN-SUFFIX,api.openai.com
   - DOMAIN-SUFFIX,api.perplexity.ai
-  - DOMAIN-SUFFIX,api.statsig.com
   - DOMAIN-SUFFIX,api.us.elevenlabs.io
   - DOMAIN-SUFFIX,api.x.ai
   - DOMAIN-SUFFIX,app-builder.pollo.ai
-  - DOMAIN-SUFFIX,app-companion-430619.appspot.com
   - DOMAIN-SUFFIX,app.adjust.com
   - DOMAIN-SUFFIX,app.grammarly.com
   - DOMAIN-SUFFIX,app.kilo.ai
   - DOMAIN-SUFFIX,apps.canva-apps.com
-  - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,arc-test.i.perplexity.ai
   - DOMAIN-SUFFIX,arena.openai.com
   - DOMAIN-SUFFIX,argocd-test.i.perplexity.ai
@@ -87,7 +73,6 @@ payload:
   - DOMAIN-SUFFIX,auth.grammarly.com
   - DOMAIN-SUFFIX,auth.kilo.ai
   - DOMAIN-SUFFIX,auth.openai.com
-  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,backtoschool-prod-framer.perplexity.ai
   - DOMAIN-SUFFIX,backupcdn.pollo.ai
@@ -98,10 +83,10 @@ payload:
   - DOMAIN-SUFFIX,blog.openai.com
   - DOMAIN-SUFFIX,blog.perplexity.ai
   - DOMAIN-SUFFIX,browser-download.perplexity.ai
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com
   - DOMAIN-SUFFIX,browser.events.data.microsoft.com
   - DOMAIN-SUFFIX,business-fellowship-framer-prod.perplexity.ai
   - DOMAIN-SUFFIX,campaign.pollo.ai
-  - DOMAIN-SUFFIX,canva-apps.com
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,capi.grammarly.com
   - DOMAIN-SUFFIX,cdn.anthropic.com
@@ -153,7 +138,6 @@ payload:
   - DOMAIN-SUFFIX,chatgpt-async-webps-staging-eastus-0.chatgpt.com
   - DOMAIN-SUFFIX,chatgpt-async-webps-staging-southcentralus-0.chatgpt.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
   - DOMAIN-SUFFIX,chunk-composing.canva.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
@@ -167,10 +151,6 @@ payload:
   - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clearance.deepl.com
-  - DOMAIN-SUFFIX,client-api.arkoselabs.com
-  - DOMAIN-SUFFIX,cloudflareaccess.com
-  - DOMAIN-SUFFIX,cloudfunctions.net
-  - DOMAIN-SUFFIX,cloudinary.com
   - DOMAIN-SUFFIX,code.claude.com
   - DOMAIN-SUFFIX,comet-feedback.perplexity.ai
   - DOMAIN-SUFFIX,comet-framer-prod.perplexity.ai
@@ -240,11 +220,9 @@ payload:
   - DOMAIN-SUFFIX,eu-west-1.api.x.ai
   - DOMAIN-SUFFIX,events.anthropic.com
   - DOMAIN-SUFFIX,events.pollo.ai
-  - DOMAIN-SUFFIX,events.statsigapi.net
   - DOMAIN-SUFFIX,experimentation-grpc.deepl.com
   - DOMAIN-SUFFIX,experimentation.deepl.com
   - DOMAIN-SUFFIX,f-log-editor.grammarly.io
-  - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,feedback.deepseek.com
   - DOMAIN-SUFFIX,feedcdn.sapphire.microsoftapp.net
   - DOMAIN-SUFFIX,fellowship.perplexity.ai
@@ -270,7 +248,6 @@ payload:
   - DOMAIN-SUFFIX,gov-demo.chatgpt.com
   - DOMAIN-SUFFIX,gpt3-openai.com
   - DOMAIN-SUFFIX,grammarly.com
-  - DOMAIN-SUFFIX,grammarly.io
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.ai
   - DOMAIN-SUFFIX,gtm.deepl.com
@@ -284,17 +261,12 @@ payload:
   - DOMAIN-SUFFIX,hiworkflow.pollo.ai
   - DOMAIN-SUFFIX,home.deepl.com
   - DOMAIN-SUFFIX,hooks-staging.chatgpt.com
-  - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,hs.deepl.com
   - DOMAIN-SUFFIX,http-intake.logs.us5.datadoghq.com
   - DOMAIN-SUFFIX,hub-prod.perplexity.ai
-  - DOMAIN-SUFFIX,identrust.com
   - DOMAIN-SUFFIX,imgen.x.ai
   - DOMAIN-SUFFIX,in.appcenter.ms
   - DOMAIN-SUFFIX,intercom-help-center.perplexity.ai
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomassets.com
-  - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,internal.deepl.com
   - DOMAIN-SUFFIX,ios.chat.openai.com
   - DOMAIN-SUFFIX,ita-free.www.deepl.com
@@ -310,12 +282,10 @@ payload:
   - DOMAIN-SUFFIX,labs.openai.com
   - DOMAIN-SUFFIX,labs.perplexity.ai
   - DOMAIN-SUFFIX,labs.pplx.ai
-  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,learn.kilo.ai
   - DOMAIN-SUFFIX,lgincdnmsftuswe2.azureedge.net
   - DOMAIN-SUFFIX,lgincdnvzeuno.azureedge.net
   - DOMAIN-SUFFIX,links.email.claude.com
-  - DOMAIN-SUFFIX,live.net
   - DOMAIN-SUFFIX,livekit.grok.com
   - DOMAIN-SUFFIX,location.microsoft.com
   - DOMAIN-SUFFIX,login-test.kilo.ai
@@ -344,9 +314,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oauth.anthropic.com
-  - DOMAIN-SUFFIX,observeit.net
   - DOMAIN-SUFFIX,ogimg.chatgpt.com
   - DOMAIN-SUFFIX,omni-insights.perplexity.ai
   - DOMAIN-SUFFIX,opal.google
@@ -399,10 +367,8 @@ payload:
   - DOMAIN-SUFFIX,sapphire.api.microsoftapp.net
   - DOMAIN-SUFFIX,search.chatgpt.com
   - DOMAIN-SUFFIX,search.i.perplexity.ai
-  - DOMAIN-SUFFIX,segment.io
   - DOMAIN-SUFFIX,self.events.data.microsoft.com
   - DOMAIN-SUFFIX,sentry.anthropic.com
-  - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,services.bingapis.com
   - DOMAIN-SUFFIX,skiafy.i.perplexity.ai
   - DOMAIN-SUFFIX,sl.deepl.com
@@ -432,7 +398,6 @@ payload:
   - DOMAIN-SUFFIX,status.perplexity.com
   - DOMAIN-SUFFIX,status.x.ai
   - DOMAIN-SUFFIX,stitch.withgoogle.com
-  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,stripe.perplexity.ai
   - DOMAIN-SUFFIX,subscription.grammarly.com
   - DOMAIN-SUFFIX,suggest.perplexity.ai
@@ -456,7 +421,6 @@ payload:
   - DOMAIN-SUFFIX,trust.perplexity.ai
   - DOMAIN-SUFFIX,trust.x.ai
   - DOMAIN-SUFFIX,try.elevenlabs.io
-  - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,typeahead.grok.com
   - DOMAIN-SUFFIX,ui.i.perplexity.ai
   - DOMAIN-SUFFIX,universe.openai.com
@@ -470,7 +434,6 @@ payload:
   - DOMAIN-SUFFIX,usw2.preview.i.perplexity.ai
   - DOMAIN-SUFFIX,videocdn.pollo.ai
   - DOMAIN-SUFFIX,w.deepl.com
-  - DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,webrtc-staging.chatgpt.com
   - DOMAIN-SUFFIX,webrtc.chatgpt.com
   - DOMAIN-SUFFIX,website.claude.com
