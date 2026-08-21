@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
   - DOMAIN-SUFFIX,aistudio.google.com
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,android.chat.openai.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,antigravity-unleash.goog
@@ -52,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,api.us.elevenlabs.io
   - DOMAIN-SUFFIX,api.x.ai
   - DOMAIN-SUFFIX,app-builder.pollo.ai
+  - DOMAIN-SUFFIX,app-companion-430619.appspot.com
   - DOMAIN-SUFFIX,app.adjust.com
   - DOMAIN-SUFFIX,app.grammarly.com
   - DOMAIN-SUFFIX,app.kilo.ai
@@ -434,6 +436,7 @@ payload:
   - DOMAIN-SUFFIX,usw2.preview.i.perplexity.ai
   - DOMAIN-SUFFIX,videocdn.pollo.ai
   - DOMAIN-SUFFIX,w.deepl.com
+  - DOMAIN-SUFFIX,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,webrtc-staging.chatgpt.com
   - DOMAIN-SUFFIX,webrtc.chatgpt.com
   - DOMAIN-SUFFIX,website.claude.com
