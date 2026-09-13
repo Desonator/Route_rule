@@ -1,4 +1,7 @@
 payload:
+  - DOMAIN-SUFFIX,airhorn.solutions
+  - DOMAIN-SUFFIX,airhornbot.com
+  - DOMAIN-SUFFIX,bigbeans.solutions
   - DOMAIN-SUFFIX,dis.gd
   - DOMAIN-SUFFIX,disboard.org
   - DOMAIN-SUFFIX,discord-activities.com
@@ -40,5 +43,7 @@ payload:
   - DOMAIN-SUFFIX,disforge.com
   - DOMAIN-SUFFIX,dyno.gg
   - DOMAIN-SUFFIX,findAdiscord.com
+  - DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com
   - DOMAIN-SUFFIX,mee6.xyz
   - DOMAIN-SUFFIX,top.gg
+  - DOMAIN-SUFFIX,watchanimeattheoffice.com
